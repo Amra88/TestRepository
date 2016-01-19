@@ -11,6 +11,7 @@ public class Test {
 	public static void meh(){
 		System.out.println("Meh!");
 		System.out.println("Error!");
+
 	}
 
 }
